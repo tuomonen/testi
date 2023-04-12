@@ -20,9 +20,9 @@
 .git_old
 .idea
 /public
-/src
-/Sekalaisia
-/valuutta1
+diary
+eggspress
+testi
 
 npm-debug.log*
 yarn-debug.log*
